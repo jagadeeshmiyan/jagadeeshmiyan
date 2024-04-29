@@ -30,9 +30,9 @@
 
 - 🐍 Developed RESTful APIs using Django Rest Framework
 - 🐍 Built a real-time chat application using Django Channels
-- 🐍 Implemented web scraping scripts with BeautifulSoup and Scrapy
 - 🐍 Developed data analysis tools using pandas
 - 🐍 Created automation scripts for various tasks using Python
+- Created many APIs for the projects with fellow teammates
 
 Programming Languages I Work With
 <p align="left">
