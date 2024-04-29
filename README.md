@@ -37,6 +37,8 @@
 Programming Languages I Work With
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css" width="40" height="40"/>
 </p>
 
 Tools and Technologies I'm Familiar With
@@ -45,7 +47,7 @@ Tools and Technologies I'm Familiar With
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" title="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> 
-  <img src="https://[www.vectorlogo.zone/logos/postman/postman_code-icon.svg](https://www.google.com/imgres?q=postman%20logo%20for%20github%20profile&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F18669142%2F57947837-dbd25b80-7894-11e9-992d-225e476f760b.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fpostmanlabs%2Fpostman-app-support%2Fissues%2F6542&docid=j95cDHLWRXPldM&tbnid=BCw72RCBlkq4PM&vet=12ahUKEwi4ldiS8-aFAxXERmwGHcx9D58QM3oECBcQAA..i&w=1848&h=682&hcb=2&ved=2ahUKEwi4ldiS8-aFAxXERmwGHcx9D58QM3oECBcQAA)" alt="postman" title="postman" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
 <p>&nbsp;
