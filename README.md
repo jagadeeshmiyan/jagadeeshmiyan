@@ -16,7 +16,7 @@
 
 [](https://komarev.com/ghpvc/?username=jagadeesh&style=flat-square&color=blue)
 
-🏢 Currently, I'm contributing my skills at Python Solutions Inc. as a **Python Developer**
+🏢 Currently, I'm contributing my skills at Kultivate India Software Pvt Ltd. as a **Python Developer**
 
 💡 My current focus is on **building scalable web applications using Django**
 
@@ -29,7 +29,6 @@
 👨‍💻 Some of the projects I've worked on recently
 
 - 🐍 Developed RESTful APIs using Django Rest Framework
-- 🐍 Built a real-time chat application using Django Channels
 - 🐍 Developed data analysis tools using pandas
 - 🐍 Created automation scripts for various tasks using Python
 - 🐍 Created many APIs for the projects with fellow teammates
