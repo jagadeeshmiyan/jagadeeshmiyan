@@ -22,7 +22,7 @@
 
 💬 Feel free to reach out to me for **Python development tips and tricks**
 
-📫 You can contact me via email at **jagadeeshmiyan@gmail.com**
+📫 You can contact me via email at **miyanjagadeesh@gmail.com**
 
 ⚡ Fun fact **I believe in the Zen of Python: "Readability counts"**
 
